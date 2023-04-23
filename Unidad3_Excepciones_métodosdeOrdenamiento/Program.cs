@@ -10,7 +10,7 @@ namespace Unidad3_Excepciones_métodosdeOrdenamiento
 {
     internal class Program
     {
-        static void Main()
+        static void Main() // Metodo Principal
         {   
             Ordenamiento metodo = null;
             string nombreArchivo = "";
